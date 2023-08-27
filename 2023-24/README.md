@@ -6,5 +6,5 @@
 
 ***
 
-* Event PPT [here](https://drive.google.com/file/d/17Pv__Corfm80ezOJJCTSa9l0U4wCSSNm/view?usp=drive_link)
-* How to Join a GDSC Event [here](https://drive.google.com/file/d/1c8Tim2lGznmMTYzSEoFcV8mIp018S7mP/view?usp=drive_link)
+* Event PPT [here](https://drive.google.com/file/d/17Pv__Corfm80ezOJJCTSa9l0U4wCSSNm/view?usp=sharing)
+* How to Join a GDSC Event [here](https://drive.google.com/file/d/1c8Tim2lGznmMTYzSEoFcV8mIp018S7mP/view?usp=sharing)
